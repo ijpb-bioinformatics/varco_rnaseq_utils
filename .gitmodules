@@ -1,3 +1,6 @@
 [submodule "bash/varco_split_map"]
 	path = bash/varco_split_map
 	url = https://github.com/jos4uke/varco_split_map.git
+[submodule "bash/bash-common"]
+	path = bash/bash-common
+	url = https://github.com/jos4uke/bash-common.git
