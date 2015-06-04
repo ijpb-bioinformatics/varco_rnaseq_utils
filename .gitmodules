@@ -4,3 +4,7 @@
 [submodule "bash/bash-common"]
 	path = bash/bash-common
 	url = https://github.com/jos4uke/bash-common.git
+[submodule "R/variantutils"]
+	path = R/variantutils
+	url = https://github.com/jos4uke/variantutils.git
+	branch = varco_rnaseq_utils
